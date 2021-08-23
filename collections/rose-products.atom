@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://zineglob.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://zineglob.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://zineglob.com/collections/rose-products.atom"/>
+  <title> ZINEGLOB | First producer of Organic Moroccan Argan oil</title>
+  <updated>2018-08-27T09:57:52+01:00</updated>
+  <author>
+    <name> ZINEGLOB | First producer of Organic Moroccan Argan oil</name>
+  </author>
+  <entry>
+    <id>https://zineglob.com/products/1860049141818</id>
+    <published>2018-08-27T09:57:52+01:00</published>
+    <updated>2018-08-27T09:57:52+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://zineglob.com/products/orange-blossom-water"/>
+    <title>ORANGE BLOSSOM WATER</title>
+    <s:type>IN BULK</s:type>
+    <s:vendor>Rose Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/6951/5066/products/orange_blossom_Water.png?v=1545202508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rose Products<br>
+        <strong>Type: </strong>IN BULK<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Organic orange blossom water is the fragrant flower of the Citrus Sinensis. It’s known for its benefits for the skin and the hair, as it’s used as Cosmetics ingredient to prepare different skins. It’s available in 5 liters, 10 liters bulks and even in metallic drums of 220 liters.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collection</s:tag>
+    <s:tag>IN BULK</s:tag>
+    <s:tag>no-timer</s:tag>
+    <s:tag>Other Natural Cosmetics products</s:tag>
+    <s:variant>
+      <id>https://zineglob.com/products/1860049141818</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zineglob.com/products/1440343195706</id>
+    <published>2018-06-11T09:03:34+00:00</published>
+    <updated>2018-06-11T09:03:34+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://zineglob.com/products/shampoo-of-rose"/>
+    <title>SHAMPOO OF ROSE</title>
+    <s:type>argane achifae</s:type>
+    <s:vendor>Rose Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/6951/5066/products/Roseshampoo.jpg?v=1618572013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rose Products<br>
+        <strong>Type: </strong>argane achifae<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Adequate for both men and women, this shampoo is enriched with one of the most effective ingredients for hair and scalp health which is damascena rose. Its gentle foam cleans the scalp while nourishing it in depth with vitamins and antioxidents. It removes all dirtness and procures moisture, softness and volume.</span></p>
+<div class="separator"><strong>How to use :</strong></div>
+<p>Apply small quantity on the scalp, massage for few seconds to remove the dirtness and to stimulate blood circulation. Slide the foam all the way through the hair before rinsing thoroughly.</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/1LlCXgwsDD4?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>no-timer</s:tag>
+    <s:tag>Private label</s:tag>
+    <s:variant>
+      <id>https://zineglob.com/products/1440343195706</id>
+      <title>Our Label</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zineglob.com/products/1440343195706</id>
+      <title>Your Private Label</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zineglob.com/products/1440334184506</id>
+    <published>2018-06-11T08:57:49+00:00</published>
+    <updated>2018-06-11T08:57:49+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://zineglob.com/products/conditioner-with-rose"/>
+    <title>CONDITIONER WITH ROSE WATER 200ML</title>
+    <s:type>argane achifae</s:type>
+    <s:vendor>Rose Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/6951/5066/products/Roseconditioner.jpg?v=1618571185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rose Products<br>
+        <strong>Type: </strong>argane achifae<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This conditioner with rose water is indicated for dry and limp hair. Thanks to its formula rich in vitamins and antioxidents, it hydrates and moisturizes the hair deeply for a smooth and silky strands. It helps to deliver moisture where needed the most, it’s the product to include in everyday hair care routine. Use this conditioner after the shampoo with rose to deliver optimum benefits to your hair. It helps to repair dry and damaged hair, to catch up on regular hair washing routine, the conditioner with rose is the must product to enjoy hair that feels richly moisturized and more manageable, all in the time it takes to wash and rinse.</span></p>
+<div class="separator"><strong>How to use :</strong></div>
+<p>Wash your hair with rose shampoo, then rinse out and wring out your hair. Apply rose conditionner on hair’s strands and insist on the ends to nourish them deeply. Let the conditioner with rose set for 2 to 3 minutes then rinse out to get smoothy and silky hair.</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/1LlCXgwsDD4?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></p>
+<div id="gtx-anchor" style="position: absolute; visibility: hidden; left: 145px; top: 10px; width: 78px; height: 17px;"></div>
+<div class="jfk-bubble gtx-bubble" role="alertdialog" aria-describedby="bubble-2" style="visibility: visible; left: 169px; top: 37px; opacity: 1;">
+<div class="jfk-bubble-content-id" id="bubble-2">
+<div id="gtx-host" style="min-width: 200px; max-width: 400px;"></div>
+</div>
+<div class="jfk-bubble-closebtn-id jfk-bubble-closebtn" aria-label="Close" role="button" tabindex="0"></div>
+<div class="jfk-bubble-arrow-id jfk-bubble-arrow jfk-bubble-arrowup" style="left: 176px;">
+<div class="jfk-bubble-arrowimplbefore"></div>
+<div class="jfk-bubble-arrowimplafter"></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>no-timer</s:tag>
+    <s:tag>Private label</s:tag>
+    <s:variant>
+      <id>https://zineglob.com/products/1440334184506</id>
+      <title>Our Label</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zineglob.com/products/1440334184506</id>
+      <title>Your Private Label</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zineglob.com/products/1440305250362</id>
+    <published>2018-06-11T08:55:41+00:00</published>
+    <updated>2018-06-11T08:55:41+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://zineglob.com/products/rose-hard-soap"/>
+    <title>ROSE HARD SOAP 75GR</title>
+    <s:type>argane achifae</s:type>
+    <s:vendor>Rose Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/6951/5066/products/RoseSoap.jpg?v=1618571926"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rose Products<br>
+        <strong>Type: </strong>argane achifae<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>It is made in respect of the nature and the comoposition of damascena rose. The roses used in this soap are not denatured to be profitable the most to the user. This rose hard soap is rich in natural glycerin and it doesn’t contain any animal fats. Rose hard soap is gentle cleanser to be introduced in daily hygiene routine, since it is not aggressive for the film hydrolipidic skin. This true care washing has soothing and conditioning effects since it’s made with damascena roses which balance skin’s PH.</span></p>
+<div class="separator">
+<span>How to use</span><span> :</span>
+</div>
+<p>This rose hard soap is the perfect cleanser for both face and body. To use twice a day for perfect hygiene and it can replace easily the shower gel.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>no-timer</s:tag>
+    <s:tag>Private label</s:tag>
+    <s:variant>
+      <id>https://zineglob.com/products/1440305250362</id>
+      <title>Our Label</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zineglob.com/products/1440305250362</id>
+      <title>Your Private Label</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zineglob.com/products/1440293748794</id>
+    <published>2018-06-11T08:54:29+00:00</published>
+    <updated>2018-06-11T08:54:29+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://zineglob.com/products/milk-body-lotion-of-rose"/>
+    <title>MILK BODY LOTION OF ROSE 200ML</title>
+    <s:type>argane achifae</s:type>
+    <s:vendor>Rose Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/6951/5066/products/RoseMilk.jpg?v=1618571683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rose Products<br>
+        <strong>Type: </strong>argane achifae<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Nourishing lotion with damascena rose, this milk body lotion rapidly hydrates, nourishes and protects the skin. It’s rich with essential nutrients and vitamins for skin’s daily requirements to provide maximum vitality and softness. This milk body lotion with damascena rose is suitable for all skin types.</span></p>
+<div class="separator"><strong>How to use :</strong></div>
+<p>Apply small quantity on the skin and massage gently to help the penetration of the components deeply in the epidermis. The smell is amazing to perfume your body while moisturizing and nurishing it. Do not rinse after use.</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/1LlCXgwsDD4?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>no-timer</s:tag>
+    <s:tag>Private label</s:tag>
+    <s:variant>
+      <id>https://zineglob.com/products/1440293748794</id>
+      <title>Our Label</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zineglob.com/products/1440293748794</id>
+      <title>Your Private Label</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zineglob.com/products/1440281198650</id>
+    <published>2018-06-11T08:52:04+00:00</published>
+    <updated>2018-06-11T08:52:04+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://zineglob.com/products/cream-of-rose"/>
+    <title>CREAM OF ROSE 200GR</title>
+    <s:type>argane achifae</s:type>
+    <s:vendor>Rose Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/6951/5066/products/RoseCream.jpg?v=1618571359"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rose Products<br>
+        <strong>Type: </strong>argane achifae<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This cream is enriched with natural rose which provides vitamins and antioxidants. This moisturizer hydrates and refreshes the skin. It prevents the apparition of wrickles, fine lines, dark spots and the epidermis loosening too. It nourishes deeply the skin and provides maximum vitality and softness.</span></p>
+<div class="separator"><strong>How to use :</strong></div>
+<p>Wash your face with rose hard soap, then apply this cream twice a day on clean skin, massage for a minute to help the penetration of the nutrients.</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/1LlCXgwsDD4?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>no-timer</s:tag>
+    <s:tag>Private label</s:tag>
+    <s:variant>
+      <id>https://zineglob.com/products/1440281198650</id>
+      <title>Our Label</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zineglob.com/products/1440281198650</id>
+      <title>Your Private Label</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zineglob.com/products/1440270876730</id>
+    <published>2018-06-11T08:50:38+00:00</published>
+    <updated>2018-06-11T08:50:38+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://zineglob.com/products/rose-dry-flower"/>
+    <title>ROSE FLOWER DRY  200GR</title>
+    <s:type>argane achifae</s:type>
+    <s:vendor>Rose Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/6951/5066/products/RoseFlower.jpg?v=1618571909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rose Products<br>
+        <strong>Type: </strong>argane achifae<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Damascena roses are a main ingredient in many medical remedies and even cosmetics. This natural product is just perfect to fight depression, to kill germs and bacteria, to solve the problem of lack of appetite and anorexia, to heal liver congestion, nausea, kidney stones and bladder infections among other problems. Damascena roses are efficient againt insomnia, anxiety and apathy as they help to prevent  depression. They are also related to female beauty and used in skincare regimes. This product is used as face toner, tightening on capillaries and redness reducer. Damascena roses are amazing for their  cleansing and antiseptic caracteristics, they prevent rashes, swelling, sores and cuts.</span></p>
+<div class="separator">
+<span>How to use</span><span> :</span>
+</div>
+<p>Damascena roses can be ground to use the powder as a hair or facial mask. As it can be added to ghassoul or henna. Just add a handful of roses in the bathtub to enjoy a flavored steam bath as well as the benefits of damascina petals that regulate the PH of the skin.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>no-timer</s:tag>
+    <s:tag>Private label</s:tag>
+    <s:variant>
+      <id>https://zineglob.com/products/1440270876730</id>
+      <title>Our Label</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zineglob.com/products/1440270876730</id>
+      <title>Your Private Label</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zineglob.com/products/1421805322298</id>
+    <published>2018-06-08T15:37:20+00:00</published>
+    <updated>2018-06-08T15:37:20+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://zineglob.com/products/rose-water-100-ml"/>
+    <title>ROSE WATER 100 ML</title>
+    <s:type>argane achifae</s:type>
+    <s:vendor>Rose Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/6951/5066/products/Rosewater.jpg?v=1618571958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rose Products<br>
+        <strong>Type: </strong>argane achifae<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="short-description">
+<p>The rose water is obtained by distillation of damascena roses and it’s well known for its heavenly frangrance. This natural product is 100% organic and it is a staple in most skin care routines. In fact it’s a versatile beauty product which presents different benefits for the hair and the skin, thanks to its anti-inflammatory properties and rich content of antioxidants. The rose water soothes skin, tones it, and keeps it moisturized. It can be used as toner, makeup remover, to tackle puffiness under eyes, or to be combined to various ingredients like green, white or lava clays to make masks. It stops the growth of acne-causing bacteria, while controlling future breakouts. It’s an amazing product!</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/1LlCXgwsDD4?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></p>
+</div>
+<div class="cart-form-wrapper mt-30"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collection</s:tag>
+    <s:tag>no-timer</s:tag>
+    <s:tag>Private label</s:tag>
+    <s:variant>
+      <id>https://zineglob.com/products/1421805322298</id>
+      <title>Our Label</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zineglob.com/products/1421805322298</id>
+      <title>Your Private Label</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://zineglob.com/products/1421736935482</id>
+    <published>2018-06-08T15:24:44+00:00</published>
+    <updated>2018-06-08T15:24:44+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://zineglob.com/products/rose-water"/>
+    <title>ROSE WATER 5 LITERS</title>
+    <s:type>IN BULK</s:type>
+    <s:vendor>Rose Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/6951/5066/products/ROSE_WATER_5_L_copie.png?v=1545202572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rose Products<br>
+        <strong>Type: </strong>IN BULK<br>
+        <strong>Price: </strong>
+            167.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="short-description">
+<p>Obtained by distillation of damascena roses, the rose water is appreciated not only for its amazing fragrance but also its natural characteristics since it’s rich in antioxidants. This 100% organic product can be combined to various ingredients to create a varity of masks and beauty products for both hair and skin. It’s available in 5 liters, 10 liters bulks and even in metallic drums of 220 liters.</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/1LlCXgwsDD4?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></p>
+</div>
+<div class="cart-form-wrapper mt-30"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collection</s:tag>
+    <s:tag>IN BULK</s:tag>
+    <s:tag>no-timer</s:tag>
+    <s:tag>Other Natural Cosmetics products</s:tag>
+    <s:variant>
+      <id>https://zineglob.com/products/1421736935482</id>
+      <title>Our Label</title>
+      <s:price currency="USD">167.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://zineglob.com/products/1421736935482</id>
+      <title>Your Private Label</title>
+      <s:price currency="USD">167.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
